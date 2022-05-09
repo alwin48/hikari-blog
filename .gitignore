@@ -1,0 +1,4 @@
+_pycache_/
+upload/
+db.sqlite3
+migrations/
